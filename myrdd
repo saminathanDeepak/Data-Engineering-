@@ -1,0 +1,2 @@
+print()
+abc=sc.textfile("/user/training/xyz.txt")
